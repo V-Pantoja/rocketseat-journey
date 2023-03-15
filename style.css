@@ -1,0 +1,33 @@
+body {
+   background-color: antiquewhite;
+   padding-top: 15rem;
+   height: 100vh;
+
+   font-size: 1.8rem;
+
+   text-align: center;
+} 
+
+h1 {
+   font-size: 6.4rem;
+   margin: 2rem 0;
+}
+
+p {
+   margin-bottom: 8rem;
+}
+
+a {
+   text-decoration: none;
+   color: black;
+
+   margin: 0 2.5rem;
+   padding: 2rem;
+
+   border-radius: 4rem;
+}
+
+a.btn-travel {
+   background-color: palevioletred;
+   color: white;
+}
