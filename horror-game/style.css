@@ -1,0 +1,66 @@
+body {
+   color: #FFF;
+
+   height: 100vh;
+   padding-top: 16rem;
+
+   background-image: url(https://i.ibb.co/cwCMBpZ/wallpaper-horror.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+   font-family: 'Inter', sans-serif;
+   font-size: 2rem;
+   font-weight: 400;
+   line-height: 2.4rem;
+   text-align: center;
+
+   /* motor webkit e moz-osx */
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+h3 {
+   font-weight: 700;
+   font-size: 1.6rem;
+}
+
+h1 {
+   font-family: 'Emilys Candy', cursive;
+   font-size: 6.4rem;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 8rem;
+
+   color: #FFC700;
+}
+
+h3 span {
+   color: #FFC700;
+}
+
+p {
+   margin-bottom: 7.2rem;
+
+   opacity: 0.7;
+}
+
+a {
+   color: #FFF;
+
+   padding: 1.2rem 3.2rem;
+
+   font-weight: 700;
+
+   opacity: 0.6;
+}
+
+a:hover,
+a.btn-play {
+   background-color: #FFC700;
+   color: #040101;
+
+   text-decoration: none;
+
+   opacity: 1;
+}
