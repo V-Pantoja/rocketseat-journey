@@ -1,0 +1,48 @@
+body {
+   background-image: url(https://i.ibb.co/48RFLvC/wallpaper-eat.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   color: #EBF1FB;
+
+   font-family: 'Spectral', serif;
+   font-weight: 500;
+   font-size: 2rem;
+   line-height: 3rem;
+
+   height: 100vh;
+
+   text-align: center;
+   padding-top: 27.5rem;
+}
+
+h1 {
+   font-family: 'Beth Ellen';
+   font-weight: 400;
+   font-size: 6.4rem;
+   line-height: 12rem;
+}
+
+span {
+   color: #5EEAD4;
+}
+
+p {
+   margin-bottom: 7.2rem;
+}
+
+a {
+   color: #EBF1FB;
+
+   padding: 16px 32px;
+}
+
+a.recipes {
+   background-color: #5EEAD4;
+   color: #0B0C0E;
+
+   margin-left: 24px;
+   
+   text-decoration: none;
+   border-radius: 8px;
+}
