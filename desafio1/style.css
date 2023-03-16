@@ -1,33 +1,53 @@
 body {
-   background-color: antiquewhite;
-   padding-top: 15rem;
+   background-image: url(https://i.ibb.co/kMCH2v7/wallpaper-travel.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+
+   color: #151718;
+
+   padding-top: 20rem;
    height: 100vh;
 
-   font-size: 1.8rem;
+   font-family: "Inter", sans-serif;
+   font-size: 2rem;
+   line-height: 2.4rem;
+   font-weight: 400;
 
    text-align: center;
 } 
 
 h1 {
+   font-family: "Cinzel", serif;
    font-size: 6.4rem;
-   margin: 2rem 0;
+   font-weight: 700;
+   line-height: 8.6rem;
+}
+
+h1 span {
+   color: #DB2777;
 }
 
 p {
    margin-bottom: 8rem;
+   opacity: 0.9;
 }
 
 a {
    text-decoration: none;
-   color: black;
+   color: #151718;
 
-   margin: 0 2.5rem;
-   padding: 2rem;
+   font-family: "Cinzel", serif;
 
-   border-radius: 4rem;
+   padding: 1.6rem 3.2rem;
+   border-radius: 8rem;
 }
 
 a.btn-travel {
-   background-color: palevioletred;
+   background-color: #DB2777;
    color: white;
+
+   margin-left: 16px;
+}
+a.btn-travel:hover {
+   border-radius: 2rem;
 }
